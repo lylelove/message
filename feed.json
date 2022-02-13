@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "竟何的留言板",
+    "description": "",
+    "home_page_url": "https://www.lylelove.top/NoteBooks",
+    "feed_url": "https://www.lylelove.top/NoteBooks/feed.json",
+    "user_comment": "",
+    "icon": "https://www.lylelove.top/NoteBooks/media/website/90-2.png",
+    "author": {
+        "name": "竟何"
+    },
+    "items": [
+        {
+            "id": "https://www.lylelove.top/NoteBooks/liu-yan-ban.html",
+            "url": "https://www.lylelove.top/NoteBooks/liu-yan-ban.html",
+            "title": "留言板",
+            "summary": " ",
+            "content_html": "<p>\n<script src=\"//cdn.jsdelivr.net/npm/@waline/client\"></script>\n</p>\n<div id=\"waline\"> </div>\n<p>\n<script>\n    Waline({\n      el: '#waline',\n      serverURL: 'https://blog-api-lylelove.vercel.app/',\n\t  path: 'wwwmessage',\n    });\n</script>\n</p>",
+            "author": {
+                "name": "竟何"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-13T16:22:27+08:00",
+            "date_modified": "2022-02-13T16:30:25+08:00"
+        }
+    ]
+}
